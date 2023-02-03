@@ -11,6 +11,7 @@
 
 // @ts-check
 2;
+test;
 w;
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
